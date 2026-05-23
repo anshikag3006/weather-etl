@@ -1,0 +1,13 @@
+# secrets — NEVER commit these
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# logs & temp
+logs/
+*.log
+/tmp/
